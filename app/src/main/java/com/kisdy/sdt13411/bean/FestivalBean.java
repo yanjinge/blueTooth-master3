@@ -2,9 +2,7 @@ package com.kisdy.sdt13411.bean;
 
 import java.util.Date;
 
-/**
- * Created by sdt13411 on 2015/12/3.
- */
+
 public class FestivalBean {
     private int id;
     private String name;
