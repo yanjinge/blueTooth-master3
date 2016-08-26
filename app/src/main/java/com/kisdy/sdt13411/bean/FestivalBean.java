@@ -1,8 +1,7 @@
 package com.kisdy.sdt13411.bean;
 
 import java.util.Date;
-
-
+//1111111
 public class FestivalBean {
     private int id;
     private String name;
